@@ -1,0 +1,6 @@
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:18:23.733383 - Message Received: start;CurrenCapacity=40;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:18:43.748052 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:03.765218 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:23.774454 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:43.792119 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:20:03.810899 - Message Received: start;CurrenCapacity=44;MaxCapacity=100
