@@ -1,6 +1,9 @@
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:18:23.733383 - Message Received: start;CurrenCapacity=40;MaxCapacity=100
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:18:43.748052 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:03.765218 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:23.774454 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:19:43.792119 - Message Received: start;CurrenCapacity=45;MaxCapacity=100
-main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:20:03.810899 - Message Received: start;CurrenCapacity=44;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:24:44.115467 - Message Received: start;CurrenCapacity=10;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:24:55.346258 - Message Received: start;CurrenCapacity=4;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:24:55.460040 - Message Received: start;CurrenCapacity=-2;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:24:55.461037 - Message Received: start;CurrenCapacity=-2;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:25:05.322102 - Message Received: start;CurrenCapacity=-2;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:25:15.339547 - Message Received: start;CurrenCapacity=-2;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:25:25.354016 - Message Received: start;CurrenCapacity=-1;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:25:25.500428 - Message Received: start;CurrenCapacity=1;MaxCapacity=100
+main.py: - Got message from ('192.168.100.3', 8030) - 2020-09-29 16:25:35.371447 - Message Received: start;CurrenCapacity=2;MaxCapacity=100
